@@ -10,6 +10,8 @@ Exploratory data analysis was conducted, using descriptive statistics and visual
 
 A research review conducted by Bogdan and Zbigniew (2022) suggested that the most common machine learning models used in weather prediction and climate science research were Deep Learning, Random Forest, Artifical Neural Networks, Support Vector Machine and XGBoost, respectively. Random Forest Regressor, Support Vector Regressor and Artifical Neural Networks (ANN) were selected to predict mean temperature in London. Experimental hyperparameter tuning took place to optimise model performance and the evaluation strategy consisted of using cross validation (k=5) and evaluation metrics including MSE, MAE, RMSE and R2.
 
+Version control was implemented to maintain best practice using Git, VS Code and GitHub.
+
 This project is currently still underway
 
 **Note Please run preprocessig script before running experiments script

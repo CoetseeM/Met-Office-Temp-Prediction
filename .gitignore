@@ -1,0 +1,8 @@
+# Ignore private key
+ssh-keygen -t ed25519 -C "michaela.coetsee@yahoo.co.uk"
+
+# Ignore public key
+ssh-keygen -t ed25519 -C "michaela.coetsee@yahoo.co.uk".pub
+
+# Ignore notes folder
+notes/
